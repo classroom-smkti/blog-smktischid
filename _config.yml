@@ -1,0 +1,53 @@
+# Build settings
+permalink   : /archive/:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+paginate: 3
+paginate_path: "/archive/page/:num/"
+comments: false
+
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# SEO settings
+title: Bloging SMKTIPN
+description: "Mari kita Menulis dan Kreasikan Pengalamanmu"
+keywords: "smkti, teknologi, informasi, jaringan, multimedia, komputer, pemrograman, blog, web"
+url: http://smk-ti.sch.id
+baseurl: "/blog"
+# baseurl: ""
+
+# google_analytics: UA-52446115-1
+repo: http://github.com/classroom-smkti/blog-smktischid
+#disqus_shortname: ""
+#disqus_site_shortname: ""
+
+# Author settings
+author:
+  name      : SMKTI Pelita Nusantara
+  job       : Institute Of Education
+  bio       : "Software Enginering, Multimedia, Computer Enginering and Networking, Accounting, Office Administration and Bloging."
+  thumb     : /images/author.png
+  email     : smktipn@yahoo.co.id
+  url       : http://smk-ti.sch.id
+  github    : http://github.com/classroom-smkti
+  twitter   : http://twitter.com/saifulindo
+  facebook  : http://facebook.com/smkti.pn
+  linkedin  : http://linkedin.com/in/saifulindo
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  # - slug: resume
+  #   title: Resume
+  # - slug: skills
+  #   title: Skills
+  - slug: archive
+    title: Archive
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
