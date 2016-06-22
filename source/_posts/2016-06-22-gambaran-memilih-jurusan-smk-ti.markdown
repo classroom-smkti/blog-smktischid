@@ -18,7 +18,7 @@ Sejak pemerintah meningkatkan pembangunan sekolah kejuruan dengan prosentase per
   Software Engineering.<br>
 
 #### Mengetahui Kecocokan Memilih Jurusan.
-- 1. Teknik Komputer dan Jaringan, Biasanya Menyukai komputer, logika matematika, Dunia Cyber, Internat dan Hacking, menghubungkan banyak orang, Sesekali pernah terbesit di benak kalian pertanyaan "Bahaimana ya caranya perusahaan A bisa terhubung dengan peruahaan B?".
+- 1. Teknik Komputer dan Jaringan, Biasanya Menyukai komputer, logika matematika, Dunia Cyber, Internat dan Hacking, menghubungkan banyak orang, Sesekali pernah terbesit di benak kalian pertanyaan "Bagaimana ya caranya perusahaan A bisa terhubung dengan peruahaan B?".
 - 2. Multimedia, Suka menggambar, Ide kreatif, Imaginasi tinggi dan penuh dengan warna.
 - 3. Rekayasa Perangkat Lunak, Bisanya juga menyukai logika matematika, suka jika pekerjaannya di ketahui seluruh dunia, menjadikan sesuatu menjadi simple.
 
